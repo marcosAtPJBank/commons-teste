@@ -4,3 +4,4 @@ def lib_a():
     # Alterado diretamente do `commons-teste`
     # Alterado diretamente do `superdata-teste`
     # Alterado diretamente do `commons-teste`
+    # Alterado diretamente do `commons-teste`
